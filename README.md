@@ -6,11 +6,11 @@ The system operates by continuously monitoring the proximity in front of the dus
 Upon receiving this trigger, the Arduino commands a servo motor to rotate and automatically open the lid of the dustbin. After a short delay—enough for the user to dispose of waste—the servo rotates back, closing the lid securely. This touch-free mechanism significantly reduces the risk of cross-contamination and the spread of germs, especially in shared or public spaces.
 
 ## Key features of this project include:
-Automatic lid opening and closing using servo control
-Proximity sensing with an ultrasonic sensor for hands-free operation
-Hygienic and user-friendly design
-Arduino Uno-based control system for real-time responsiveness
-Compact and energy-efficient setup suitable for home, office, or public use
+### Automatic lid opening and closing using servo control
+### Proximity sensing with an ultrasonic sensor for hands-free operation
+### Hygienic and user-friendly design
+### Arduino Uno-based control system for real-time responsiveness
+### Compact and energy-efficient setup suitable for home, office, or public use
 
 This Smart Dustbin project highlights the application of automation and embedded systems in everyday life, making waste disposal more sanitary and convenient through affordable and accessible technology.
 
